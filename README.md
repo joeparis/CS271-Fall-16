@@ -50,11 +50,6 @@ There will be a midterm and a cumulative final given for the course. The final e
 ## Assessment ## 
 Grades will be determined according to the following schedule:
 
-| First Header  | Second Header |
-| ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
-
 | Type | Weight |
 | ---- | ------ |
 | Assignments | 50% |
