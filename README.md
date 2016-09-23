@@ -1,6 +1,6 @@
 # CS271 Computer Architecture & Assembly Language #
 
-This course introduces the basic principles of the functional organization and operation of digital computers by building a general-purpose computer system from the ground up. In the process, we will explore many ideas and techniques used in the design of modern hardware and software systems, and discuss major trade-offs and future trends. Throughout this journey, you will gain many cross-section views of the computing field, from the bare bone details of switching circuits to the high level abstraction of object-based software design (time allowing). As the quarter progresses, you should gain an understanding of what is actyally happening "under-the-hood" of your computer (don't worry, you are in no danger of being assimilated into the collective).
+This course introduces the basic principles of the functional organization and operation of digital computers by building a general-purpose computer system from the ground up. In the process, we will explore many ideas and techniques used in the design of modern hardware and software systems, and discuss major trade-offs and future trends. Throughout this journey, you will gain many cross-section views of the computing field, from the bare bone details of switching circuits to the high level abstraction of object-based software design (time allowing). As the quarter progresses, you should gain an understanding of what is actually happening "under-the-hood" of your computer (don't worry, you are in no danger of being assimilated into the collective).
 
 ## Prerequisite ##
 
@@ -17,7 +17,7 @@ Students will be able to:
 
 ## Course Materials ##
 
-* (The Essentials of Computer Organization and Architecture)[https://www.amazon.com/Essentials-Computer-Organization-Architecture/dp/1284045617/ref=sr_1_2?s=books&ie=UTF8&qid=1474667932&sr=1-2&keywords=essentials+of+computer+architecture], 4th Ed. by Linda Null and Julia Lobur; ISBN 9781284074482. Required. 
+* [The Essentials of Computer Organization and Architecture](https://www.amazon.com/Essentials-Computer-Organization-Architecture/dp/1284045617/ref=sr_1_2?s=books&ie=UTF8&qid=1474670683&sr=1-2&keywords=essentials+of+computer+architecture), 4th Ed. by Linda Null and Julia Lobur; ISBN 9781284074482. Required. 
 * USB thumb drive with a minimum capacity of 2GB, required
 * Internet access, required, available in limited fashion in various college computer labs or through your local Internet service provider (ISP).
 * You will also need the suite of software that accompanies the text book. This software has been installed on the computers in the My Account Lab (F-204) and has been linked to below.
@@ -45,7 +45,7 @@ Written assignments must be word processed and spell- and grammar-checked.
 
 
 ## Exams ##
-There will be a midterm and a cumulative final given for the course. The final exam will be given during the (normally scheduled final exam time)[https://www.linnbenton.edu/finals-schedule] for the class.
+There will be a midterm and a cumulative final given for the course. The final exam will be given during the [normally scheduled final exam time](https://www.linnbenton.edu/finals-schedule) for the class.
 
 ## Assessment ## 
 Grades will be determined according to the following schedule:
@@ -69,12 +69,12 @@ Grades will be determined according to the following schedule:
 | 60 – 69% | D |
 | < 60% | F |
 
-No grades of Y, W, WP or Inc will be given in this class. Remember, if you decide not to complete the course is it *your* responsibility to withdraw from it. It is not the instructor's responsibility to drop you. More information about these grades and how they can impact both your financial aid and your overall progress as a student can be found on the (Academic Standards For Financial Aid page)[http://www.linnbenton.edu/current-students/money-matters/financial-aid/academic-standards-for-financial-aid/academic-standards-for-financial-aid-continued]
+No grades of Y, W, WP or Inc will be given in this class. Remember, if you decide not to complete the course is it *your* responsibility to withdraw from it. It is not the instructor's responsibility to drop you. More information about these grades and how they can impact both your financial aid and your overall progress as a student can be found on the [Academic Standards For Financial Aid page](http://www.linnbenton.edu/current-students/money-matters/financial-aid/academic-standards-for-financial-aid/academic-standards-for-financial-aid-continued).
 
 ## Academic Honesty ##
 
-Helping, or being helped by, another student during an exam will be considered a breach of academic honesty and is grounds for receiving a zero grade and/or failing the course among other possible remedies as outlined in the (Students' Rights and Responsibilities Handbook)[https://www.linnbenton.edu/current-students/administration-information/policies/students-rights-responsibilities-and-conduct]
+Helping, or being helped by, another student during an exam will be considered a breach of academic honesty and is grounds for receiving a zero grade and/or failing the course among other possible remedies as outlined in the [Students' Rights and Responsibilities Handbook](https://www.linnbenton.edu/current-students/administration-information/policies/students-rights-responsibilities-and-conduct).
 
-## LBCC Center for Accessibility Resources (CFAR) ##
+## LBCC Center for Accessibility Resources ##
 
-The Center for Accessibility Resources provides reasonable accommodations, academic adjustments and auxiliary aids to ensure that qualified students with disabilities have access to classes, programs and events at Linn-Benton Community College. Students are responsible for requesting accommodations in a timely manner. To receive appropriate and timely accommodations from LBCC, please give the Center for Accessibility Resources as much advance notice of your disability and specific needs as possible, as certain accommodations such as sign language interpreting take days to weeks to have in place. Contact the Disability Coordinator at Linn-Benton Community College, RCH-105, 6500 Pacific Blvd. SW, Albany, Oregon 97321, Phone 541-917-4789 or via Oregon Telecommunications Relay TTD at 1-800-735-2900 or 1-800-735-1232. LBCC is an equal opportunity educator and employer.
+The [Center for Accessibility Resources (CFAR)](https://linnbenton.edu/cfar) provides reasonable accommodations, academic adjustments and auxiliary aids to ensure that qualified students with disabilities have access to classes, programs and events at Linn-Benton Community College. Students are responsible for requesting accommodations in a timely manner. To receive appropriate and timely accommodations from LBCC, please give the Center for Accessibility Resources as much advance notice of your disability and specific needs as possible, as certain accommodations such as sign language interpreting take days to weeks to have in place. Contact the Disability Coordinator at Linn-Benton Community College, RCH-105, 6500 Pacific Blvd. SW, Albany, Oregon 97321, Phone 541-917-4789 or via Oregon Telecommunications Relay TTD at 1-800-735-2900 or 1-800-735-1232. LBCC is an equal opportunity educator and employer.
