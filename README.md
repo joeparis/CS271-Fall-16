@@ -73,3 +73,7 @@ Helping, or being helped by, another student during an exam will be considered a
 ## LBCC Center for Accessibility Resources ##
 
 The [Center for Accessibility Resources (CFAR)](https://linnbenton.edu/cfar) provides reasonable accommodations, academic adjustments and auxiliary aids to ensure that qualified students with disabilities have access to classes, programs and events at Linn-Benton Community College. Students are responsible for requesting accommodations in a timely manner. To receive appropriate and timely accommodations from LBCC, please give the Center for Accessibility Resources as much advance notice of your disability and specific needs as possible, as certain accommodations such as sign language interpreting take days to weeks to have in place. Contact the Disability Coordinator at Linn-Benton Community College, RCH-105, 6500 Pacific Blvd. SW, Albany, Oregon 97321, Phone 541-917-4789 or via Oregon Telecommunications Relay TTD at 1-800-735-2900 or 1-800-735-1232. LBCC is an equal opportunity educator and employer.
+
+## Errata ##
+
+If youhave any suggestions or corrections to make to the materials housed in this course repository please feel free to create a pull request. ##
