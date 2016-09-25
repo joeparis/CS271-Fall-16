@@ -20,7 +20,6 @@ Students will be able to:
 * [The Essentials of Computer Organization and Architecture](https://www.amazon.com/Essentials-Computer-Organization-Architecture/dp/1284045617/ref=sr_1_2?s=books&ie=UTF8&qid=1474670683&sr=1-2&keywords=essentials+of+computer+architecture), 4th Ed. by Linda Null and Julia Lobur; ISBN 9781284074482. Required. 
 * USB thumb drive with a minimum capacity of 2GB, required
 * Internet access, required, available in limited fashion in various college computer labs or through your local Internet service provider (ISP).
-* You will also need the suite of software that accompanies the text book. This software has been installed on the computers in the My Account Lab (F-204) and has been linked to below.
 
 ## Class Policies ##
 
