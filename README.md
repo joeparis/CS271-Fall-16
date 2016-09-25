@@ -46,7 +46,7 @@ Written assignments must be word processed and spell- and grammar-checked.
 ## Exams ##
 There will be a midterm and a cumulative final given for the course. The final exam will be given during the [normally scheduled final exam time](https://www.linnbenton.edu/finals-schedule) for the class.
 
-## Assessment ## 
+## Assessment
 Grades will be determined according to the following schedule:
 
 | Type | Weight |
