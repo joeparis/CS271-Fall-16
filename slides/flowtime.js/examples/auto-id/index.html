@@ -1,0 +1,162 @@
+<!DOCTYPE HTML>
+<!--[if IE 6]>
+<html id="ie6" lang="en-US" class="ie ie6 lt-ie9">
+<![endif]-->
+<!--[if IE 7]>
+<html id="ie7" lang="en-US" class="ie ie7 lt-ie9">
+<![endif]-->
+<!--[if IE 8]>
+<html id="ie8" lang="en-US" class="ie ie8 lt-ie9">
+<![endif]-->
+<!--[if gte IE 9]>
+<html lang="en-US" class="ie ie9">
+<![endif]-->
+<!--[if !(IE)]><!-->
+<html lang="en-US" class="">
+<!--<![endif]-->
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="initial-scale=1.0 minimal-ui">
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="author" content="marcolago">
+
+  <meta name="description" content="Flowtime.js is an open source framework for easily build HTML presentations or websites. It’s built with web standards in mind and on top of a solid full page grid layout powered by CSS3 hardware accelerated transition and comes with a complete set of Javascript API for deep customization.">
+
+  <title>Flowtime.js - Duplicated IDs Demo</title>
+  <link rel="stylesheet" href="../../assets/css/reset.css">
+  <link rel="stylesheet" href="../../css/flowtime.css">
+  <link rel="stylesheet" href="../../css/themes/default.css">
+  <link rel="stylesheet" href="css/custom.css">
+
+  <style>
+    .titles {
+      text-align: justify;
+      padding: 0.5em;
+      position: fixed;
+      top: 0;
+      left: 0;
+      right: 0;
+      z-index: 1000;
+      background-color: rgba(0,0,0,0.5);
+    }
+
+    .titles:after {
+      content: "";
+      display: table;
+      clear: both;
+    }
+
+    .titles a {
+      color: white;
+    }
+
+  </style>
+
+</head>
+<body class="">
+
+  <div class="flowtime">
+    <div class="ft-section" data-id="section" data-title="Auto IDs Demo">
+      <div class="ft-page" data-id="page">
+          <h1>Section 1 - Page 1</h1>
+          <p>Overall Page 1.</p>
+      </div>
+      <div class="ft-page">
+          <h1>Section 1 - Page 2</h1>
+          <p>Overall Page 2.</p>
+      </div>
+    </div>
+
+    <div class="ft-section">
+        <div class="ft-page">
+            <h1>Section 2 - Page 1</h1>
+            <p>Overall Page 3.</p>
+        </div>
+        <div class="ft-page" data-id="page-b">
+            <h1>Section 2 - Page 2</h1>
+            <p>Overall Page 4.</p>
+        </div>
+    </div>
+
+    <div class="ft-section">
+        <div class="ft-page">
+            <h1>Section 3 - Page 1</h1>
+            <p>Overall Page 5.</p>
+        </div>
+        <div class="ft-page">
+            <h1>Section 3 - Page 2</h1>
+            <p>Overall Page 6.</p>
+        </div>
+    </div>
+  </div>
+
+  <div class="titles">
+    <ul>
+      <li><a href="#/1/1">Section 1 - Page 1 (#/1/1)</a></li>
+      <li><a href="#/2/2">Section 2 - Page 2 (#/2/2)</a></li>
+      <li><a href="#/3/2">Section 3 - Page 2 (#/3/2)</a></li>
+      <li><a href="#" class="add">Add a new section before the first one</a></li>
+    </ul>
+  </div>
+
+  <script src="../../js/brav1toolbox.js"></script>
+  <script src="../../js/flowtime.js"></script>
+
+  <script type="text/javascript">
+    var _gaq = _gaq || [];
+    _gaq.push(['_setAccount', 'UA-1228618-10']);
+    _gaq.push(['_trackPageview']);
+    _gaq.push(['_trackEvent', 'Flowtime', 'Landing', document.title]);
+    (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+    })();
+
+    // Configuration API test
+    Flowtime.showProgress(true);
+    // Flowtime.fragmentsOnSide(true);
+    // Flowtime.fragmentsOnBack(true);
+    // Flowtime.useHistory(false);
+    // Flowtime.slideInPx(true);
+    // Flowtime.sectionsSlideToTop(true);
+    // Flowtime.gridNavigation(false);
+    // Flowtime.useOverviewVariant(true);
+    // Flowtime.parallaxInPx(true);
+    // Flowtime.clicker(true);
+    // Flowtime.loop(true);
+    //
+    //
+
+    var newSectionCounter = 1;
+
+    var addLink = document.querySelector(".add");
+    
+    addLink.addEventListener("click", onAdd);
+    function onAdd(e) {
+      console.log(e.nextSection);
+      if (e.nextSection !== true) {
+        addLink.removeEventListener("click", onAdd);
+
+        Flowtime.disableNavigation();
+        setTimeout(function() {
+          var sectionHTML = '<div class="ft-section"><div class="ft-page"><h1>Section NEW ' + newSectionCounter + ' - Page 1</h1><p>Overall Page NEW 1.</p></div><div class="ft-page" data-id="new page"><h1> Section NEW - Page 2</h1><p>Overall Page NEW 2.</p></div></div>';
+          newSectionCounter += 1;
+          document.querySelector(".flowtime").insertAdjacentHTML('afterbegin', sectionHTML);
+          
+          Flowtime.updateNavigation();
+          setTimeout(function() {
+            addLink.setAttribute("href", "#/4/4");
+            addLink.innerHTML = "Section NEW - Page 1"
+          }, Flowtime.getTransitionTime());
+          Flowtime.enableNavigation();
+        }, 1000);
+      }
+    }
+
+    // starts the application with configuration options
+    Flowtime.start();
+  </script>
+
+</body>
+</html>
