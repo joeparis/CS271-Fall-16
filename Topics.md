@@ -48,12 +48,16 @@ We may even start to refresh some basic Boolean materials as time permits.
 * You may want to download [Logisim](http://www.cburch.com/logisim/) and get familiar with it. We will be using it in class to explore Boolean algebra, functions, and digital logic. At a minimum I suggest running through the beginner's tutorial in help (feel free to go deeper). 
 
 ## October 4
+Boolean Algebra and Digital Logic
+* Boolean Algebra
+* Logic Gates
+* Digital Components
+* Combinational Circuits
+* Sequential Circuits
 
 
 
 # Coming Soon
-Boolean Algebra and Digital Logic
-
 MARIE, a Simple Computer
 
 A Closer Look at ISAs
