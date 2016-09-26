@@ -53,10 +53,17 @@ We may even start to refresh some basic Boolean materials as time permits.
 
 # Coming Soon
 Boolean Algebra and Digital Logic
+
 MARIE, a Simple Computer
+
 A Closer Look at ISAs
+
 Memory
+
 System Software
+
 Alternative Architectures
+
 Embedded Systems
+
 Performance Measurement and Analysis
