@@ -26,6 +26,15 @@ Students will be able to:
 
 This quarter represents the inaugural offering of this class in the new Innovation Classroom (MKH-203). In honor of this we will be experimenting with "flipping the class" in order to make best use of the technologies and opportunities afforded us by the room. This will require extra diligence on all our parts, especially you the learner. Assignments given in preparation for class may include various readings or watching of videos *must be completed before class*. Coming to class prepared to engage in the discussion, either large- or small-group, is crucial to your success in this class.
 
+A rough outline of each class period would look something like this:
+
+1. You'll take a brief quiz over the assigned reading, video(s), or other materials assigned at the end of the class last time we met. This quiz is meant only to ensure that the you completed this part of your assignment. You may ask questions or we may discuss broad strokes about the material prior to the quiz.
+2. I'll answer any questions you may have about specifics in the materials. I may demo particular concepts or present additional information.
+3. You'll be given an assignment to work on in class. These will often be completed in small groups.
+4. We'll check your progress on the assignment together as a class.
+5. Repeat steps 3 & 4 while class time remains.
+6. At the end of class you will be assigned materials to read or watch prior to the beginning of our next meeting time. Again, these assignments *must be completed before our next class.*
+
 Students come from many different backgrounds and have unique life experiences which can enhance class discussions. For this reason, it is crucial for students to share their insights on course-related topics. Current issues involving course- and subject-related matters will be very much a part of the class and I encourage you to come to class ready to share new information and ask questions. Students are expected to be prepared for each class, having completed all reading and homework assignments. The course is extremely cumulative so a good start is essential.
 
 While in class, please set your cell phone to *vibrate*. If you need to take a call, please step out of the room to do so. 
