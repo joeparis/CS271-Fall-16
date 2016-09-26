@@ -54,8 +54,8 @@ Boolean Algebra and Digital Logic
 * Digital Components
 * Combinational Circuits
 * Sequential Circuits
-
-
+* Designing Circuits
+* Karnaugh Maps
 
 # Coming Soon
 MARIE, a Simple Computer
