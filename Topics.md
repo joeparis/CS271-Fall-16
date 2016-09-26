@@ -32,7 +32,7 @@
 ## September 29
 Getting jiggy with the fancy room!
 
-![gittin jiggy wit it](http://giphy.com/gifs/home-Sp2BqmCXIHv44)
+![gittin jiggy wit it](http://gph.is/1xJCxCZ)
 
 
 Oh noes! MATHS!!! We'll be revving up and refreshing a lot of material from Chapter 2.
