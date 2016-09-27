@@ -18,8 +18,8 @@
 * Skim Chapter 2
 * Watch these videos
 	* [Review of the metric system](https://youtu.be/UyDMwnkeAwQ)
-	* [Binary Numbers](https://youtu.be/ry1hpm1GXVI)
-	* [Binary, Decimal and Hexadecimal Number Systems](https://youtu.be/_97OwCkjh3c)
+	* [Binary Numbers](https://youtu.be/ry1hpm1GXVI), in case you weren't paying attention in 160
+	* [Binary, Decimal and Hexadecimal Number Systems](https://youtu.be/_97OwCkjh3c), in case you weren't paying attention in 160
 	* [Number Base Conversion Practice](https://youtu.be/Fpm-E5v6ddc)
 	* [Decimal To Binary Fraction Conversion](https://youtu.be/j8Ya6b27wEA)
 	* [How to: Twos Complement](https://youtu.be/n6taPbsRqV4)
