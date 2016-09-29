@@ -57,29 +57,29 @@ Open a word processor (Microsoft Word, Google Docs, anything that will allow you
    d) 84.874023
 7. Convert the following binary fractions to decimal. Make sure everyone in the group arrives at the same answer and understands why and how they got there.
 
-   a) 10111.1101
-   b) 100011.10011
-   c) 1010011.10001
-   d) 11000010.111
+   a) 10111.1101   
+   b) 100011.10011   
+   c) 1010011.10001   
+   d) 11000010.111   
 8. Convert the hexadecimal number 0xAC12 to binary.
 9. Convert the hexadecimal number 0x7A01 to binary.
 10. Convert the hexadecimal number 0xDEADBEEF to binary.
 11. Represent the following decimal numbers in binary using two's complement and excess-127 representation. Make sure everyone in the group arrives at the same answer and understands why and how they got there.
 
-    a) 60 
-    b) −60
-    c) 20
-    d) −20
+    a) 60   
+    b) −60   
+    c) 20   
+    d) −20   
 12. What decimal value does the 8-bit binary number 10011110 have under the following circumstances? Make sure everyone in the group arrives at the same answer and understands why and how they got there.
 
-    a) it is interpreted as an unsigned number?
-    b) it is on a computer using two’s complement representation?
-    c) it is on a computer using excess-127 representation?
+    a) it is interpreted as an unsigned number?   
+    b) it is on a computer using two’s complement representation?   
+    c) it is on a computer using excess-127 representation?   
 13. Using a "word" of 3 bits, list all of the possible signed binary numbers and their decimal equivalents that are representable in two's complement.
 14. Using a "word" of 4 bits, list all of the possible signed binary numbers and their decimal equivalents that are representable in two's complement.
 15. From the results of the previous two questions, generalize the range of values (in decimal) that can be represented in any given x number of bits using two's compliment?
 16. Your group has stumbled on an unknown civilization while sailing around the world. The people, who call themselves Zebronians, do math using 40 separate characters (probably because there are 40 stripes on a zebra). They would very much like to use computers, but would need a computer to do Zebronian math, which would mean a computer that could represent all 40 characters. You are a computer designer and decide to help them. You     decide the best thing is to use BCZ, Binary Coded Zebronian (which is like BCD except it codes Zebronian, not Decimal). How many bits will you need to represent each character if you want to use the minimum number of bits?
 17. If the floating-point number representation on a certain system has a sign bit, a 3-bit exponent and a 4-bit significand: 
 
-   a) What is the largest positive and the smallest positive number that can be stored on this system if the storage is normalized? (Assume no bits are implied, there is no biasing, exponents use two's complement notation, and exponents of all zeros and all ones are     allowed.)
-   b) What bias should be used in the exponent if we prefer all exponents to be non-negative? Why would you choose this bias?
+   a) What is the largest positive and the smallest positive number that can be stored on this system if the storage is normalized? (Assume no bits are implied, there is no biasing, exponents use two's complement notation, and exponents of all zeros and all ones are     allowed.)   
+   b) What bias should be used in the exponent if we prefer all exponents to be non-negative? Why would you choose this bias?   
