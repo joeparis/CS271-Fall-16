@@ -44,10 +44,10 @@ Open a word processor (Microsoft Word, Google Docs, anything that will allow you
 4. Explain the difference between ASCII and UNICODE.
 5. Convert the following decimal values to binary and hexadecimal by hand (no calculators). Make sure everyone in the group arrives at the same answer and understands why and how they got there.
 
-   a) 588
-   b) 2254 
-   c) 652 
-   d) 3104 
+   a) 588   
+   b) 2254   
+   c) 652   
+   d) 3104   
 6. Convert the following decimal fractions to binary with a maximum of six places to the right of the radix point. Make sure everyone in the group arrives at the same answer and understands why and how they got there.
 
 
