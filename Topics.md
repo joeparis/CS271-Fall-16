@@ -42,9 +42,12 @@ We may even start to refresh some basic Boolean materials as time permits.
 **Before class on October 4**
 * Read Chapter 3. It can be a bit dry, plan your time accordingly and remember, it's *critical* that you do the reading *before* class.
 * Here are some optional videos covering much of the material from sections 3.1 – 3.5
-	* [Boolean Algebra OR AND NOT Logic Gates](https://youtu.be/iStLeNIZ6Pg)
-	* [Boolean Algebra NOR and NAND Logic Gates](https://youtu.be/qUio80-zcIU)
-	* [Boolean Algebra Logic Circuit Simplification](https://youtu.be/JqhaPnJGe7g)
+  * [Boolean Algebra OR AND NOT Logic Gates](https://youtu.be/iStLeNIZ6Pg)
+  * [Boolean Algebra NOR and NAND Logic Gates](https://youtu.be/qUio80-zcIU)
+  * [Boolean Algebra Logic Circuit Simplification](https://youtu.be/JqhaPnJGe7g)
+* Here are some additional, excellent videos on Boolean Laws and Expression simlification
+  * [Boolean Laws](https://youtu.be/hQefZ6d9m2k)
+  * [Logic Simplification Examples Using Boolean Rules](https://youtu.be/59BbncMjL8I)
 * You may want to download [Logisim](http://www.cburch.com/logisim/) and get familiar with it. We will be using it in class to explore Boolean algebra, functions, and digital logic. At a minimum I suggest running through the beginner's tutorial in help (feel free to go deeper). 
 * Complete the [pre-class quiz](https://goo.gl/forms/LvitD7pdVzAEb4jI2)
 
