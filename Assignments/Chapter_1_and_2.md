@@ -74,7 +74,7 @@ Open a word processor (Microsoft Word, Google Docs, anything that will allow you
 
     a) it is interpreted as an unsigned number?   
     b) it is on a computer using two’s complement representation?   
-    c) it is on a computer using excess-127 representation?   
+    c) it is on a computer using excess-128 representation?   
 13. Using a "word" of 3 bits, list all of the possible signed binary numbers and their decimal equivalents that are representable in two's complement.
 14. Using a "word" of 4 bits, list all of the possible signed binary numbers and their decimal equivalents that are representable in two's complement.
 15. From the results of the previous two questions, generalize the range of values (in decimal) that can be represented in any given x number of bits using two's compliment?
