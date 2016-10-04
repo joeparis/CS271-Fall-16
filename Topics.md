@@ -57,12 +57,14 @@ We may even start to refresh some basic Boolean materials as time permits.
 Boolean Algebra and Digital Logic
 * Boolean Algebra
 * Logic Gates
+* Complete the pre-class quiz
 
 ## October 6
 Boolean Algebra and Digital Logic
 * Boolean Algebra (continued)
 * Logic Gates (continued)
   * [Universal Properties of NOR and NAND Gates](https://youtu.be/SOMdzLslYIg)
+* Complete the pre-class quiz
 
 ## October 11
 * Digital Components
