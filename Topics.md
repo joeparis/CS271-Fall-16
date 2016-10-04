@@ -55,6 +55,13 @@ We may even start to refresh some basic Boolean materials as time permits.
 Boolean Algebra and Digital Logic
 * Boolean Algebra
 * Logic Gates
+
+## October 6
+Boolean Algebra and Digital Logic
+* Boolean Algebra (continued)
+* Logic Gates (continued)
+
+## October 11
 * Digital Components
 * Combinational Circuits
 * Sequential Circuits
