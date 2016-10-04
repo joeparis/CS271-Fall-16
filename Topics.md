@@ -48,6 +48,8 @@ We may even start to refresh some basic Boolean materials as time permits.
 * Here are some additional, excellent videos on Boolean Laws and Expression simlification
   * [Boolean Laws](https://youtu.be/hQefZ6d9m2k)
   * [Logic Simplification Examples Using Boolean Rules](https://youtu.be/59BbncMjL8I)
+  * [DeMorgans Theorem](https://youtu.be/wTUO3_kYOMY)
+  * [Logic Simplification Examples Continued](https://youtu.be/6jILMHPCa98)
 * You may want to download [Logisim](http://www.cburch.com/logisim/) and get familiar with it. We will be using it in class to explore Boolean algebra, functions, and digital logic. At a minimum I suggest running through the beginner's tutorial in help (feel free to go deeper). 
 * Complete the [pre-class quiz](https://goo.gl/forms/LvitD7pdVzAEb4jI2)
 
@@ -60,6 +62,7 @@ Boolean Algebra and Digital Logic
 Boolean Algebra and Digital Logic
 * Boolean Algebra (continued)
 * Logic Gates (continued)
+  * [Universal Properties of NOR and NAND Gates](https://youtu.be/SOMdzLslYIg)
 
 ## October 11
 * Digital Components
@@ -67,6 +70,7 @@ Boolean Algebra and Digital Logic
 * Sequential Circuits
 * Designing Circuits
 * Karnaugh Maps
+  * [Karnaugh Maps](https://youtu.be/eGNdpwOrsTo)
 
 # Coming Soon
 MARIE, a Simple Computer
