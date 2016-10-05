@@ -57,7 +57,7 @@ We may even start to refresh some basic Boolean materials as time permits.
 Boolean Algebra and Digital Logic
 * Boolean Algebra
 * Logic Gates
-* Complete the pre-class quiz
+* Complete the [pre-class quiz](https://goo.gl/forms/rQtEeM7CWw6vqtak2)
 
 ## October 6
 Boolean Algebra and Digital Logic
