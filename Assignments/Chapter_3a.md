@@ -1,4 +1,4 @@
-** Due before the start of class on October 11 **
+**Due before the start of class on October 11**
 
 In your pod split into groups of at most three to discuss and answer the questions below. Be sure that *every* member of your group understands the answers you submit. The exams will be done individually. 
 
