@@ -31,9 +31,5 @@ For each of the questions below write the full truth table for the expression as
    d) F(x,y) = x'(x + y) + (x + y)(x + y')
    e) F(x,y,z) = x(yz + y'z) + xy + x'y + xz
    f) F(x,y,z) = z(xy' + z)(z + y')
-   g) F(x,y,z) = x(y + z)(x' + z')
-   h) F(x,y,z) = y(x' + (x + y)')
-   i) F(x,y,z) = x'yz + xz
-   j) F(x,y,z) = (x' + y + z')' + xy'z' + yz + xyz
 
-. For each of the expressions from the question above simplify them again this time using a Kmap.
+For each of the expressions from the question above simplify them again this time using a Kmap.
