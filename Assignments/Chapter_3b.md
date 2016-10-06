@@ -1,3 +1,5 @@
+** Due before the start of class on October 13 **
+
 The truth table for a Boolean expression is given below. Write the Boolean expression in SOP form.
 
 | *x*  | *y*  | *z*  |      |
