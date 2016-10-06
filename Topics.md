@@ -63,8 +63,10 @@ Boolean Algebra and Digital Logic
 Boolean Algebra and Digital Logic
 * Boolean Algebra (continued)
 * Logic Gates (continued)
-  * [Universal Properties of NOR and NAND Gates](https://youtu.be/SOMdzLslYIg)
-* Complete the pre-class quiz
+  * Universal Properties of NOR and NAND Gates
+
+# SO... I borked the quiz which means you couldn't get to it in a reasonable amount of time before class which means I will postpone the due date. Finish the quiz before class on October 11.
+* [Complete the pre-class quiz **before** class on October 11](https://youtu.be/SOMdzLslYIg)
 
 ## October 11
 * Digital Components
