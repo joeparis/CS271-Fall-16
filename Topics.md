@@ -71,6 +71,12 @@ Boolean Algebra and Digital Logic
 ## October 11
 * Digital Components
 * Combinational Circuits
+   * [Basic Combinational Logic](https://youtu.be/UYUhgS8N_fs)
+   * [Combinational Logic Design Using Karnaugh Maps](https://youtu.be/NuVMKfcwzYE)
+   * [Combinational Logic Adders](https://youtu.be/2Ff3hINRUTE)
+   * [Parallel Binary Adders](https://youtu.be/sRCneBPGyec)
+   * [Multiplexers and Demultiplexers](https://youtu.be/kxHRk7YCzac)   
+   * [Encoders, Decoders, Code Converters, and Parity](https://youtu.be/qBYbqh4QgNU)
 * Sequential Circuits
 * Designing Circuits
 * Karnaugh Maps
