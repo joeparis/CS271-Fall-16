@@ -1,5 +1,7 @@
 **Due before the start of class on October 18**
 
+**You must submit your written answers *and* your Logisim files**
+
 Give an example of the use of a decoder.
 
 Give an example of the use of a multiplexer.
@@ -8,7 +10,7 @@ Give an example of the use of a demultiplexer.
 
 Give an example of the use of a shifter like the one in Figure 3.16 of your book.
 
-Using Logisim and the 8-bit Ripple-Carry Adder as a starting point, build a subtractor. Hint: you will need to buid the necessary circuitry to complement the [subtrahend[(http://www.dictionary.com/browse/subtrahend?s=t).
+Using Logisim and the 8-bit Ripple-Carry Adder as a starting point, build a subtractor. Hint: you will need to buid the necessary circuitry to complement the [subtrahend](http://www.dictionary.com/browse/subtrahend?s=t).
 
 Using Logisim, implement a parallel adder.
 
