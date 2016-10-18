@@ -36,4 +36,4 @@
    
    Construct a truth table and find the minimized Boolean function to implement the logic telling Susie when to give her dog a biscuit.
    
-Also, for next class review the section of your book on sequential logic. For next week read Chapter 4 Sections 4.1 through 4.10 for class next week.
+Also, for next class review the section of your book on sequential logic.
