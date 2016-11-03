@@ -82,9 +82,13 @@ Boolean Algebra and Digital Logic
 * Karnaugh Maps
   * [Karnaugh Maps](https://youtu.be/eGNdpwOrsTo)
 
-# Coming Soon
+## November 3
 MARIE, a Simple Computer
+* For class on November 8, read Chapter 4, especially the sections on MARIE.
+	* [The MARIE Architecture](https://youtu.be/e8fYVxwnSOE)
 
+
+# Coming Soon
 A Closer Look at ISAs
 
 Memory
