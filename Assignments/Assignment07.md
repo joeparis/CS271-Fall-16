@@ -38,3 +38,5 @@
 22. Redo Exercise 11 assuming a 16M × 16 memory built using 512K × 8 RAM chips.
   
 For next class read the remainder of Chapter 4.
+
+**Also, there *will* be a quiz up before next class.** Keep an eye out for it.
