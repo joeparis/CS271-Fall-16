@@ -85,7 +85,21 @@ Boolean Algebra and Digital Logic
 ## November 3
 MARIE, a Simple Computer
 * For class on November 8, read Chapter 4, especially the sections on MARIE.
+	* [What does "32-bit" mean?](https://youtu.be/_QM7WA4GQzk)
+	* [MARIE Simulator 1](https://youtu.be/1Zo8ZE0r_bo)
+	* [MARIE Simulator 2](https://youtu.be/hbQ8Af84F7Q)
+	* [MARIE Simulator 3](https://youtu.be/kWZwlo97Iog)
 	* [The MARIE Architecture](https://youtu.be/e8fYVxwnSOE)
+	* [How a control unit works inside a CPU](https://youtu.be/ZyPewh04OzQ)
+	* [How a datapath works inside a computer system](https://youtu.be/ibYYqvp9FmU)
+	* [Memory in a computer system](https://youtu.be/F0Ri2TpRBBg)
+	* [How memory works in a computer system](https://youtu.be/HNSoxrRFdU0)
+	* [Input/output subsystem in computer systems](https://youtu.be/OZFsTelYdk4)
+	* [How a datapath works inside a computer system](https://youtu.be/ibYYqvp9FmU)
+	* [CISC vs RISC](https://youtu.be/mDrUkjOVtAU)
+	* [Memory Indirection (the address of the address of...)](https://youtu.be/ZlXur4yUiBM)
+	
+	
 
 
 # Coming Soon
