@@ -6,7 +6,7 @@
 4. How is the ALU related to the CPU? What are its main functions?
 5. How does the ALU know what function to perform?
 6. Why is a bus often a communications bottleneck?
-7. Wha is the difference between a point-to-point bus and a multipoint bus?
+7. What is the difference between a point-to-point bus and a multipoint bus?
 8. Why is a bus protocol important?
 9. Explain the difference between data, address, and control busses.
 10. What is a bus cycle?
