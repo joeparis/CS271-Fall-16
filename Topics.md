@@ -98,7 +98,9 @@ MARIE, a Simple Computer
 	* [How a datapath works inside a computer system](https://youtu.be/ibYYqvp9FmU)
 	* [CISC vs RISC](https://youtu.be/mDrUkjOVtAU)
 	* [Memory Indirection (the address of the address of...)](https://youtu.be/ZlXur4yUiBM)
-	
+
+## November 8
+Complete the [pre-class quiz](https://goo.gl/forms/aClCDm7h0XOpxITn1).
 	
 
 
