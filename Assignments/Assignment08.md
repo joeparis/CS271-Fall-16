@@ -1,3 +1,5 @@
+**Due November 22**
+
 1. Explain the steps of the fetch-decode-execute cycle. Your explanation should include what is happening in MARIE's various registers.
 2. Combine the flowcharts that appear in Figures 4.11 and 4.12 so that the interrupt checking appears at a suitable place.
 3. Explain why, in MARIE, the MAR is only 12 bits wide while the AC is 16 bits wide.
