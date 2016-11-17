@@ -46,7 +46,7 @@
 7. Write the following code segment in MARIE's assembly language:
 
     ```
-    if X &gt; 1 then
+    if X > 1 then
        Y = X + X;
        X = 0;
     endif;
