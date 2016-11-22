@@ -1,4 +1,4 @@
-**Due November 10**
+**Due November 29**
 
 1. Assume you have a byte-addressable machine that uses 32-bit integers and you are storing the hex value 3456 at address 0.   
    a) Show how this is stored on a big endian machine.   
@@ -51,5 +51,9 @@
   using the specified format? Justify your answer.   
   b) Assume that a computer architect has already designed 6 two-address and 24 zeroaddress instructions using the instruction format above. What is the maximum number of one-address instructions that can be added to the instruction set?
 10. Given 16-bit instructions, is it possible to use expanding opcodes to allow the following to be encoded assuming we have a total of 32 registers? If so, show the encoding. If not, explain why it is not possible.
+
+**MARIE Programming Project**
+
+Write a program that will first "randomly" generate a number unknown to the user (because MARIE is so limited there is no good way to generate this number so use the same one every time; lame, I know). The user needs to guess what that number is. (In other words, the user needs to be able to input information.) If the user’s guess is wrong, the program should return some sort of indication as to how wrong (e.g. The number is too high or too low). If the user guesses correctly, a positive indication should appear. 
 
 **Read Chapter 6 sections 6.1 to 6.6. for class on November 29**
