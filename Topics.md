@@ -102,17 +102,12 @@ MARIE, a Simple Computer
 ## November 8
 Complete the [pre-class quiz](https://goo.gl/forms/aClCDm7h0XOpxITn1).
 	
+## November 22
+Closer Look at ISAs
 
+Read Chapter 6 sections 6.1 to 6.6.
 
-# Coming Soon
-A Closer Look at ISAs
-
+## November 29
 Memory
 
-System Software
 
-Alternative Architectures
-
-Embedded Systems
-
-Performance Measurement and Analysis
