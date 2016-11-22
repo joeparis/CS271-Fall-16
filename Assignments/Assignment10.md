@@ -52,4 +52,4 @@
   b) Assume that a computer architect has already designed 6 two-address and 24 zeroaddress instructions using the instruction format above. What is the maximum number of one-address instructions that can be added to the instruction set?
 10. Given 16-bit instructions, is it possible to use expanding opcodes to allow the following to be encoded assuming we have a total of 32 registers? If so, show the encoding. If not, explain why it is not possible.
 
-**Read Chapter 6 sections 6.1 to 6.6.**
+**Read Chapter 6 sections 6.1 to 6.6. for class on November 29**
