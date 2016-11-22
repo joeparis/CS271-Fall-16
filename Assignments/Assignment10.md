@@ -1,4 +1,4 @@
-**Due November 29**
+**Due December 1**
 
 1. Assume you have a byte-addressable machine that uses 32-bit integers and you are storing the hex value 3456 at address 0.   
    a) Show how this is stored on a big endian machine.   
