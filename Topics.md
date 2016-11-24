@@ -110,7 +110,6 @@ Read Chapter 6 sections 6.1 to 6.6.
 ## November 29
 Memory
 
-## Slide Decks
-<iframe src="https://onedrive.live.com/embed?cid=7FD0F01B9546BECC&resid=7FD0F01B9546BECC%21586722&authkey=ACuD0U4yCWIL9Yw&em=2" width="402" height="327" frameborder="0" scrolling="no"></iframe>
+
 
 
