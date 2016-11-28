@@ -110,6 +110,10 @@ Read Chapter 6 sections 6.1 to 6.6.
 ## November 29
 Memory
 
+[Anatomy of a Program in Memory](http://duartes.org/gustavo/blog/post/anatomy-of-a-program-in-memory/)
+
+[Learning to Read x86 Assembly Language](http://patshaughnessy.net/2016/11/26/learning-to-read-x86-assembly-language)
+
 
 
 
