@@ -16,7 +16,7 @@
 
 3. Consider a 32-bit hexadecimal number stored in memory as follows:
 
-4. | Address | Value |
+   | Address | Value |
    | ------- | ----- |
    | 100     | 2A    |
    | 101     | C2    |
@@ -29,29 +29,30 @@
    e) If the machine is little endian and the number is an IEEE single-precision floating point value, is the number positive or negative?   
    f) If the machine is little endian and the number is an IEEE single-precision floating point value, determine the decimal equivalent of the number stored at address 100 (you may leave your answer in scientific notation form, as a number times a power of two). 
 
-5. There are reasons for machine designers to want all instructions to be the same length.    Why is this not a good idea on a stack machine?
+4. There are reasons for machine designers to want all instructions to be the same length.    Why is this not a good idea on a stack machine?
 
-6. A computer has 32-bit instructions and 12-bit addresses. Suppose there are 250 2-address
+5. A computer has 32-bit instructions and 12-bit addresses. Suppose there are 250 2-address
    instructions. How many 1-address instructions can be formulated? Explain your answer.
 
-7. Convert the following expressions from infix to reverse Polish (postfix) notation.   
+6. Convert the following expressions from infix to reverse Polish (postfix) notation.   
       a) (8 – 6) / 2   
       b) (2 + 3) * 8 / 10   
       c) (5×(4 + 3) × 2 – 6)   
 
-8. a) Write the following expression in postfix (Reverse Polish) notation. Remember the rules of precedence for arithmetic operators!   
+7. a) Write the following expression in postfix (Reverse Polish) notation. Remember the rules of precedence for arithmetic operators!   
    ![](http://i.imgur.com/hFve6ha.png)   
    b) Write a program to evaluate the above arithmetic statement using a stack organized
    computer with zero-address instructions (so only pop and push can access memory).
 
-9. a) In a computer instruction format, the instruction length is 11 bits and the size of an address field is 4 bits. Is it possible to have:   
+8. a) In a computer instruction format, the instruction length is 11 bits and the size of an address field is 4 bits. Is it possible to have:   
       - 5 2-address instructions   
       - 45 1-address instructions   
       - 32 0-address instructions   
       
   using the specified format? Justify your answer.   
   b) Assume that a computer architect has already designed 6 two-address and 24 zeroaddress instructions using the instruction format above. What is the maximum number of one-address instructions that can be added to the instruction set?
-10. Given 16-bit instructions, is it possible to use expanding opcodes to allow the following to be encoded assuming we have a total of 32 registers? If so, show the encoding. If not, explain why it is not possible.
+
+9. Given 16-bit instructions, is it possible to use expanding opcodes to allow the following to be encoded assuming we have a total of 32 registers? If so, show the encoding. If not, explain why it is not possible.
 
 **MARIE Programming Project**
 
