@@ -54,9 +54,9 @@
 
 9. Given 16-bit instructions, is it possible to use expanding opcodes to allow the following to be encoded assuming we have a total of 32 registers? If so, show the encoding. If not, explain why it is not possible.
 
-- 60 instructions with 2 register operands
-- 30 instructions with 1 register operand
-- 3 instructions with one 10-bit address 
+      - 60 instructions with 2 register operands
+      - 30 instructions with 1 register operand
+      - 3 instructions with one 10-bit address 
 
 **MARIE Programming Project**
 
