@@ -1,4 +1,4 @@
-**Due November 6**
+**Due December 6**
 
 1. Suppose a computer using direct mapped cache has 2^20 bytes of byte-addressable main memory, and a cache of 32 blocks, where each cache block contains 16 bytes.
 
