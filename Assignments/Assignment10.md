@@ -21,6 +21,7 @@
    | 100     | 2A    |
    | 101     | C2    |
    | 102     | 08    |
+   | 103     | 1B    |
    a) If the machine is big endian and uses 2’s complement representation for integers, write the 32-bit integer number stored at address 100 (you may write the number in hex).   
    b) If the machine is big endian and the number is an IEEE single-precision floating point value, is the number positive or negative?   
    c) If the machine is big endian and the number is an IEEE single-precision floating point value, determine the decimal equivalent of the number stored at address 100 (you may leave your answer in scientific notation form, as a number times a power of two).   
